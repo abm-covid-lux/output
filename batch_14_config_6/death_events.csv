@@ -1,0 +1,4 @@
+tick,iso8601,date,agent,age,home location type,work location type
+5825,04/03/2020T10:50:00 ,2020-04-03,047ee7956d544c48bfa0d1d73dfd0b20,90,House,OW Transport
+7080,04/12/2020T04:00:00 ,2020-04-12,9c1bb56a6a1047ac965a2851fe47071d,77,House,OW Technical
+9891,05/01/2020T16:30:00 ,2020-05-01,07d70d2641b64129858480277056f2e2,84,House,OW ICT

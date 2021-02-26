@@ -1,0 +1,4 @@
+tick,iso8601,date,agent,age,home location type,work location type
+3687,03/19/2020T14:30:00 ,2020-03-19,64df5e5137854379a5497ef2129b799e,85,House,OW Manufacturing
+6126,04/05/2020T13:00:00 ,2020-04-05,030916608fa14ea7acd792ef59af429a,69,House,OW Trade
+6208,04/06/2020T02:40:00 ,2020-04-06,36cd0df76315474da0294a14ba2afe48,79,House,OW Manufacturing

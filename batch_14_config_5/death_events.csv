@@ -1,0 +1,4 @@
+tick,iso8601,date,agent,age,home location type,work location type
+1652,03/05/2020T11:20:00 ,2020-03-05,9ecf921f75a443c2bf5342784c7e3360,82,House,OW Construction
+15824,06/11/2020T21:20:00 ,2020-06-11,f1db20a591fd4220a48817741d2fd70b,92,Care Home,Care Home
+16471,06/16/2020T09:10:00 ,2020-06-16,700c2b2ad9214d8cba43413c353fb872,94,Care Home,Care Home
