@@ -1,0 +1,4 @@
+tick,iso8601,date,agent,age,home location type,work location type
+2196,03/09/2020T06:00:00 ,2020-03-09,94328eccc90244e4beac789606a3eef8,87,House,Shop
+5559,04/01/2020T14:30:00 ,2020-04-01,d481d01088e340288efde1d33baf087d,81,House,Shop
+6339,04/07/2020T00:30:00 ,2020-04-07,3911c5afd9cd45da8ab1b25523b7bc81,82,House,OW Construction
