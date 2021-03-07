@@ -122,27 +122,27 @@ logging:
 reporters:
   cli.TimeReporter: {}
   csv.HealthStateCounts:
-    filename: /tmp/health_state_counts.csv
+    filename: health_state_counts.csv
   csv.ActivityCounts:
-    filename: /tmp/activity_counts.csv
+    filename: activity_counts.csv
   csv.LocationTypeCounts:
-    filename: /tmp/location_type_counts.csv
+    filename: location_type_counts.csv
   csv.TestingCounts:
-    filename: /tmp/testing_counts.csv
+    filename: testing_counts.csv
   csv.QuarantineCounts:
-    filename: /tmp/quarantine_counts.csv
+    filename: quarantine_counts.csv
   csv.TestingEvents:
-    filename: /tmp/testing_events.csv
+    filename: testing_events.csv
   csv.ExposureEvents:
-    filename: /tmp/exposure_events.csv
+    filename: exposure_events.csv
   csv.DeathEvents:
-    filename: /tmp/death_events.csv
+    filename: death_events.csv
   # csv.ContactCounts:
   #   filename: average_contact_counts.csv
   csv.VaccinationEvents:
-    filename: /tmp/vaccination_events.csv
+    filename: vaccination_events.csv
   csv.SecondaryInfectionCounts:
-    filename: /tmp/secondary_infection_counts.csv
+    filename: secondary_infection_counts.csv
     #  - location_population_plots.LocationPlots:
 #      dirname: plots
 #      types_to_show: []
