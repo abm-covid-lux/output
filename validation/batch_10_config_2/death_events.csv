@@ -1,0 +1,4 @@
+tick,iso8601,date,agent,age,home location type,work location type
+3353,03/17/2020T06:50:00 ,2020-03-17,dfc6d7df83cc4651a6a3d70ed9a8a689,64,House,OW Other Services
+4198,03/23/2020T03:40:00 ,2020-03-23,1b27478971174b7ca3b47b4f649a6cdc,82,House,OW Technical
+4376,03/24/2020T09:20:00 ,2020-03-24,43882e573ec8478093927886dfc7c718,63,France,Hospital
