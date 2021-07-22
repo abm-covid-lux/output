@@ -1,0 +1,10 @@
+10 (unscaled) 3 (rescaled) Care Homes : 139964 (rescaled) locations
+20 (unscaled) 5 (rescaled) Care Homes : 139852 (rescaled) locations
+30 (unscaled) 8 (rescaled) Care Homes : 139687 (rescaled) locations
+40 (unscaled) 10 (rescaled) Care Homes : 139571 (rescaled) locations
+50 (unscaled) 13 (rescaled) Care Homes : 138854 (rescaled) locations
+60 (unscaled) 15 (rescaled) Care Homes : 138740 (rescaled) locations
+70 (unscaled) 18 (rescaled) Care Homes : 138567 (rescaled) locations
+80 (unscaled) 20 (rescaled) Care Homes : 138459 (rescaled) locations
+90 (unscaled) 23 (rescaled) Care Homes : 138296 (rescaled) locations
+100 (unscaled) 25 (rescaled) Care Homes : 138726 (rescaled) locations
